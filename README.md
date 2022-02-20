@@ -1,5 +1,5 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
-
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Cybot.svg/?label=active+issues&show_trend=true&token=KjQ_HZe8BeRM6tExTQLgIA2S)](https://deepsource.io/gh/KOSASIH/Cybot/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Cybot/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Cybot/tree/main)
 
 
