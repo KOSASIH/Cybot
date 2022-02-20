@@ -18,7 +18,7 @@ The Cybot software system is designed to handle massive amounts of data, which a
 
 Cybot's software does not only protect businesses from attacks, it also helps them improve their own performance. It works by identifying areas where companies can increase their security protocols and by showcasing ways in which they can. 
 
-So far, Cybot has been used by numerous companies as well as government agencies like the FBI and NSA. As a B2B startup, we're based out of New Hampshire in the United States, but we're hoping to expand soon into the AI works by collecting information about the user's device, their browsing history, their social media activity, their search history, etc., and then runs this data through its proprietary algorithm to identify patterns indicative of cyber threats. It then immediately takes action in order to protect the user's online presence. This process happens entirely in the background without any human intervention or interaction with the user.
+So far, Cybot has been used by numerous companies as well as government agencies like the FBI and NSA. As a B2B startup, we're based in Indonesia, but we're hoping to expand soon into the AI works by collecting information about the user's device, their browsing history, their social media activity, their search history, etc., and then runs this data through its proprietary algorithm to identify patterns indicative of cyber threats. It then immediately takes action in order to protect the user's online presence. This process happens entirely in the background without any human intervention or interaction with the user.
 
 
 # Value Proposition
