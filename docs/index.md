@@ -3,6 +3,8 @@
 
 [![CircleCI](https://circleci.com/gh/KOSASIH/Cybot/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Cybot/tree/main)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+
 ## Welcome to Cybot Page
 
 # Cybot
