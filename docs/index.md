@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/KOSASIH/Cybot/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Cybot/tree/main)
+
 ## Welcome to Cybot Pages
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Cybot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
