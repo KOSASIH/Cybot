@@ -4,7 +4,7 @@ Cyber Security Experts and Fraud Detectors
 
 # Mission
 
-To protect people, assets and the reputation of your business.
+To safeguard an individual, organisation or a country by ensuring all their important and sensitive information on computers, laptops and smartphones are safeguarded, secured and encrypted.
 
 # Description
 
