@@ -1,4 +1,4 @@
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 
 [![CircleCI](https://circleci.com/gh/KOSASIH/Cybot/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Cybot/tree/main)
 
