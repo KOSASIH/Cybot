@@ -2,6 +2,10 @@
 
 Cyber Security Experts and Fraud Detectors
 
+# Brand Voice
+
+Competent, authoritative, dependable, stable
+
 # Mission
 
 To safeguard an individual, organisation or a country by ensuring all their important and sensitive information on computers, laptops and smartphones are safeguarded, secured and encrypted.
