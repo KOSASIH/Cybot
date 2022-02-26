@@ -1,0 +1,3 @@
+Run the script below on your node’s terminal, if you have cURL but not wget
+
+curl https://my-netdata.io/kickstart.sh > /tmp/netdata-kickstart.sh && sh /tmp/netdata-kickstart.sh --claim-token eZap-ev9qHazOuf-J3k7CzG6LoLYL_9HyQ6Lifk3Iggpl5Z8YJV51-OYrjfN5X28H7h0HxTv0XqMGOlh86iZZ6fAVYoDEfDuFxtb6lIaL-5PnFSxMHdFpv7TPwkTiCRxORyI3tw --claim-rooms 800f34a5-1d76-488c-bb18-d85022ccc279 --claim-url https://app.netdata.cloud
