@@ -1,4 +1,4 @@
-Install and connect new Docker containers
+1.Install and connect new Docker containers
 
 docker run -d --name=netdata \
   -p 19999:19999 \
@@ -17,3 +17,37 @@ docker run -d --name=netdata \
   -e NETDATA_CLAIM_URL=https://app.netdata.cloud \
   -e NETDATA_CLAIM_ROOMS=23f84e1a-5c76-47fc-9ed2-eadd32ccb6fc \
   netdata/netdata
+
+2.Or if you use docker compose you can copy the below config, then rundocker-compose up -din the same directory as thedocker-compose.yml
+
+version: '3'
+services:
+  netdata:
+    image: netdata/netdata
+    container_name: netdata
+    hostname: example.com # set to fqdn of host
+    ports:
+      - 19999:19999
+    restart: unless-stopped
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - apparmor:unconfined
+    volumes:
+      - netdataconfig:/etc/netdata
+      - netdatalib:/var/lib/netdata
+      - netdatacache:/var/cache/netdata
+      - /etc/passwd:/host/etc/passwd:ro
+      - /etc/group:/host/etc/group:ro
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /etc/os-release:/host/etc/os-release:ro
+    environment:
+      - NETDATA_CLAIM_TOKEN=K7jyi_riz8RrefFBrt-bhXmFkw3aYZsrU3_nUT7BeO8NdwOJFqIACtwuETLdq7-x28e8W2bG4HoL_BNupa4ETdZZDpXmgK5GgAfr-3gvn7A9CMQJ8Y_RsPygwcFtYcMmlAI1RvA
+      - NETDATA_CLAIM_URL=https://app.netdata.cloud
+      - NETDATA_CLAIM_ROOMS=23f84e1a-5c76-47fc-9ed2-eadd32ccb6fc
+
+volumes:
+  netdataconfig:
+  netdatalib:
+  netdatacache:
