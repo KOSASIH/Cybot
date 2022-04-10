@@ -5,6 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Cybot)](https://github.com/KOSASIH/Cybot/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FCybot)
 [![Codacy Security Scan](https://github.com/KOSASIH/Cybot/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/KOSASIH/Cybot/actions/workflows/codacy-analysis.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a161f103-d513-43cb-95fd-39f23d385757/deploy-status)](https://app.netlify.com/sites/nimble-torte-a3657f/deploys)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Cybot/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Cybot/tree/main)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Cybot.svg/?label=active+issues&show_trend=true&token=KjQ_HZe8BeRM6tExTQLgIA2S)](https://deepsource.io/gh/KOSASIH/Cybot/?ref=repository-badge)
