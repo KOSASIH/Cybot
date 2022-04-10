@@ -12,16 +12,6 @@
 <img src="https://area51.stackexchange.com/users/flair/219520.png" width="208" height="58" alt="Area 51 profile for KOSASIH" title="Area 51 profile for KOSASIH">
 </a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOSASIH&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=flat-square) 
-![Node.js	](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=flat-square) 
-![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white&style=flat-square) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat-square) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat-square) 
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=flat-square) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white&style=flat-square) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat-square) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat-square) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white&style=flat-square) 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Cybot">Cybot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
