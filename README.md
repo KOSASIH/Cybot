@@ -43,6 +43,13 @@ So far, we're based in Indonesia, but we're hoping to expand soon into the AI wo
 
 Cybot Technology – AI Cyber Security and Auto Fraud Detection: Cybot Technologies Ltd is an innovative globally Indonesia based Cyber Security & Anti-Fraud Detection Company, created to provide disruptive solutions to existing cyber security & anti-fraud detection challenges. We have developed a pioneering, AI/IA driven ‘Intelligent Threat Detection system’ for real-time monitoring of uploaded content for malware and malicious code. We also provide a solution for assessing the potential risk of online transactions from both a consumer and merchant perspective. Our solutions are being used within the public sector, online retailers & major brands globally.
 
+# Instruction
+
+1. Please clone or fork this repository.  
+2. Start building your project by filling in all the required information.  
+3. Add the necessary files to complete your project.  
+4. Please check some demo sites below.
+
 # Demo Site
 
 1. https://cybot.i.tgcloud.io/#/login
